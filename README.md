@@ -91,20 +91,20 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aadilqaisrani2-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=a8b2d8" />
-<img width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aadilqaisrani2-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7c3aed&text_color=a8b2d8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilqaisrani2-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=a8b2d8&cache_seconds=1800" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilqaisrani2-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7c3aed&text_color=a8b2d8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img width="55%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed&sideLabels=a8b2d8&dates=a8b2d8&stroke=7c3aed" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed&sideLabels=a8b2d8&dates=a8b2d8&stroke=7c3aed" />
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilqaisrani2-ctrl&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilqaisrani2-ctrl&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -114,7 +114,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aadilqaisrani2-ctrl&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aadilqaisrani2-ctrl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
