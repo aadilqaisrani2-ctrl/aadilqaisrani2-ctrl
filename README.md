@@ -2,17 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d1b69&height=220&section=header&text=Aadil%20Qaisrani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=a8b2d8"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Aadil+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Smart+Tools+with+Code+%F0%9F%9A%80;I+use+AI+to+code+%E2%80%94+then+make+it+better+%F0%9F%94%A5;Open+to+Collaborate+%26+Connect+%F0%9F%8C%90" alt="Typing SVG" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/aadilqaisrani2-ctrl">
   <img src="https://komarev.com/ghpvc/?username=aadilqaisrani2-ctrl&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
@@ -26,7 +18,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -99,8 +91,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilqaisrani2-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=a8b2d8&ring_color=7c3aed" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilqaisrani2-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7c3aed&text_color=a8b2d8" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aadilqaisrani2-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=a8b2d8" />
+<img width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aadilqaisrani2-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7c3aed&text_color=a8b2d8" />
 
 </div>
 
@@ -122,7 +114,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aadilqaisrani2-ctrl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aadilqaisrani2-ctrl&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
