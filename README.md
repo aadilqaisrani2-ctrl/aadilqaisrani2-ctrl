@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0a2e,60:1a0a3e,100:2d1b69&height=250&section=header&text=Aadil%20Qaisrani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=60&descAlign=50&descSize=20&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0a2e,60:1a0a3e,100:2d1b69&height=260&section=header&text=Aadil%20Qaisrani&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=62&descAlign=50&descSize=22&descColor=c4b5fd"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Aadil+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Smart+Tools+with+Code+%F0%9F%9A%80;I+use+AI+to+code+%E2%80%94+then+make+it+better+%F0%9F%94%A5;Automating+the+world+one+script+at+a+time+%E2%9A%99%EF%B8%8F;Open+to+Collaborate+%26+Connect+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Aadil+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Smart+Tools+with+Code+%F0%9F%9A%80;Automating+the+world+one+script+at+a+time+%E2%9A%99%EF%B8%8F;I+use+AI+to+code+%E2%80%94+then+make+it+better+%F0%9F%94%A5;Open+to+Collaborate+%26+Connect+%F0%9F%8C%90" alt="Typing SVG" />
 
 </div>
 
@@ -30,8 +30,6 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 About Me
 
 ```python
@@ -40,12 +38,11 @@ class AadilQaisrani:
         self.name       = "Aadil Qaisrani"
         self.role       = "Python Developer & AI Engineer"
         self.location   = "Pakistan 🇵🇰"
-        self.languages  = ["Python", "Bash", "Markdown"]
-        self.interests  = ["AI/ML", "Automation",
-                           "REST APIs", "Open Source"]
-        self.currently  = "Building AI-powered tools 🔭"
-        self.learning   = "Python • REST APIs • Automation 🌱"
-        self.goal       = "Build tools that make life easier 🎯"
+        self.languages  = ["Python", "Bash", "JavaScript", "Markdown"]
+        self.interests  = ["AI/ML", "Automation", "REST APIs", "Open Source"]
+        self.currently  = "Building AI-powered tools & real-world SaaS 🔭"
+        self.learning   = "Python • REST APIs • FastAPI • Next.js 🌱"
+        self.goal       = "Build tools that solve real problems 🎯"
         self.fun_fact   = "I use AI to write code — then I make it better! ⚡"
 
     def say_hi(self):
@@ -55,8 +52,6 @@ me = AadilQaisrani()
 me.say_hi()
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -65,6 +60,7 @@ me.say_hi()
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -78,12 +74,15 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📚 Libraries & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -95,8 +94,8 @@ me.say_hi()
 
 | | |
 |---|---|
-| 🔭 **Currently Building** | AI-powered Python automation tools |
-| 🌱 **Currently Learning** | Python • REST APIs • FastAPI • Automation |
+| 🔭 **Currently Building** | AI-powered SaaS tools & automation pipelines |
+| 🌱 **Currently Learning** | Python • REST APIs • FastAPI • Next.js |
 | 🤖 **AI Tools I Use** | Claude, ChatGPT, GitHub Copilot |
 | 💬 **Ask Me About** | Python, AI-assisted dev, automation scripts |
 | 🎯 **2025 Goal** | Build 10 open-source Python tools |
@@ -111,14 +110,86 @@ me.say_hi()
 
 <div align="center">
 
-| Project | Tech | Status |
-|---------|------|--------|
-| 🤖 **AI Automation Bot** | Python, OpenAI API | 🔨 Building |
-| 🔐 **Web Security Scanner** | Python, FastAPI, CustomTkinter | ✅ Done |
-| 🛒 **WhatsApp Commerce SaaS** | Next.js, FastAPI, Supabase | 🔨 Building |
-| 🖼️ **ASCII Art Converter** | HTML, CSS, JavaScript | ✅ Done |
+> 💡 *Here's what I've been building — real tools, real problems, real code.*
 
 </div>
+
+<br/>
+
+### 🐸 VoiceFrog — AI Voice Cloning Tool
+> Clone any voice locally. No API keys, no cloud, just your machine.
+
+| | |
+|---|---|
+| **Stack** | Python, XTTS v2, Coqui TTS, CustomTkinter |
+| **What it does** | Records a voice sample, clones it using local AI, generates speech in that voice |
+| **Status** | 🔨 In Development |
+
+---
+
+### 🎓 College Management System
+> A full-featured system to manage students, faculty, attendance & results.
+
+| | |
+|---|---|
+| **Stack** | Python, SQLite, Tkinter / CustomTkinter |
+| **What it does** | Handles student enrollment, grade tracking, attendance records, and report generation |
+| **Status** | 🔨 In Development |
+
+---
+
+### 🌐 Business Website
+> Clean, modern website for a local business — built to convert visitors.
+
+| | |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **What it does** | Professional landing page with services section, contact form, and responsive layout |
+| **Status** | ✅ Done |
+
+---
+
+### 📊 Excel Automation Tool
+> Tired of manual Excel work? This tool does it for you.
+
+| | |
+|---|---|
+| **Stack** | Python, OpenPyXL, Pandas |
+| **What it does** | Auto-fills templates, generates reports, formats sheets, and exports clean Excel files |
+| **Status** | ✅ Done |
+
+---
+
+### 📄 AI CV Builder
+> Generate professional, ATS-friendly CVs with just a few inputs.
+
+| | |
+|---|---|
+| **Stack** | Python, FastAPI, OpenAI API, python-docx |
+| **What it does** | Takes user info, uses AI to write compelling summaries & bullet points, exports as PDF/DOCX |
+| **Status** | 🔨 In Development |
+
+---
+
+### 🔐 Web Security Scanner
+> Automated scanner that checks websites for common vulnerabilities.
+
+| | |
+|---|---|
+| **Stack** | Python, FastAPI, CustomTkinter |
+| **What it does** | Scans for open ports, outdated headers, SQL injection hints, and XSS patterns |
+| **Status** | ✅ Done |
+
+---
+
+### 🛒 WhatsApp Commerce SaaS
+> Let small businesses sell through WhatsApp — no app needed.
+
+| | |
+|---|---|
+| **Stack** | Next.js, FastAPI, Supabase, WhatsApp Business API |
+| **What it does** | Manages product catalog, orders, and customer replies through a WhatsApp bot |
+| **Status** | 🔨 Building |
 
 ---
 
@@ -126,7 +197,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b949e&stroke=7c3aed" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b949e&stroke=7c3aed" />
 
 </div>
 
