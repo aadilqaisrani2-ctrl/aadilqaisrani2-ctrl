@@ -1,215 +1,283 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0a2e,60:1a0a3e,100:2d1b69&height=260&section=header&text=Aadil%20Qaisrani&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=62&descAlign=50&descSize=22&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f0a2e,50:1a0a3e,75:2d1b69,100:4c1d95&height=300&section=header&text=Aadil%20Qaisrani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Automation%20Builder&descAlignY=53&descAlign=50&descSize=20&descColor=c4b5fd"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=40&lines=%F0%9F%91%8B+Hey%2C+I'm+Aadil+%E2%80%94+welcome+to+my+world;%F0%9F%90%8D+Python+Developer+%7C+AI+Tinkerer;%E2%9A%99%EF%B8%8F+I+automate+boring+stuff+for+fun;%F0%9F%A4%96+I+code+with+AI%2C+then+make+it+better;%F0%9F%9A%80+Always+shipping+something+new" alt="Typing SVG" />
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Aadil+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Smart+Tools+with+Code+%F0%9F%9A%80;Automating+the+world+one+script+at+a+time+%E2%9A%99%EF%B8%8F;I+use+AI+to+code+%E2%80%94+then+make+it+better+%F0%9F%94%A5;Open+to+Collaborate+%26+Connect+%F0%9F%8C%90" alt="Typing SVG" />
+<a href="https://github.com/aadilqaisrani2-ctrl">
+  <img src="https://komarev.com/ghpvc/?username=aadilqaisrani2-ctrl&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/aadilqaisrani2-ctrl?tab=followers">
+  <img src="https://img.shields.io/github/followers/aadilqaisrani2-ctrl?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-7c3aed?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/aadilqaisrani2-ctrl">
-  <img src="https://komarev.com/ghpvc/?username=aadilqaisrani2-ctrl&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://github.com/aadilqaisrani2-ctrl?tab=followers">
-  <img src="https://img.shields.io/github/followers/aadilqaisrani2-ctrl?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7c3aed?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lives-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-7c3aed?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
 ## 🧑‍💻 About Me
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+aadil_qaisrani:
+  role: "Python Developer & AI Engineer"
+  location: "Pakistan 🇵🇰"
+  
+  languages:
+    - Python
+    - JavaScript
+    - Bash
+    - SQL
+
+  focus:
+    - AI/ML Tooling
+    - Automation Pipelines
+    - REST APIs
+    - SaaS Products
+
+  currently:
+    building: "AI-powered SaaS & automation"
+    learning: "FastAPI • Next.js • REST APIs"
+    goal: "10 open-source Python tools 🎯"
+
+  fun_fact: >
+    I use AI to write code,
+    then make it even better ⚡
+```
+
+</td>
+<td width="50%" valign="top">
+
 ```python
-class AadilQaisrani:
+class Aadil:
     def __init__(self):
-        self.name       = "Aadil Qaisrani"
-        self.role       = "Python Developer & AI Engineer"
-        self.location   = "Pakistan 🇵🇰"
-        self.languages  = ["Python", "Bash", "JavaScript", "Markdown"]
-        self.interests  = ["AI/ML", "Automation", "REST APIs", "Open Source"]
-        self.currently  = "Building AI-powered tools & real-world SaaS 🔭"
-        self.learning   = "Python • REST APIs • FastAPI • Next.js 🌱"
-        self.goal       = "Build tools that solve real problems 🎯"
-        self.fun_fact   = "I use AI to write code — then I make it better! ⚡"
+        self.role = "Python Dev & AI Engineer"
+        self.stack = ["Python", "FastAPI",
+                       "Next.js", "Supabase"]
+        self.tools = ["Claude", "ChatGPT",
+                       "Copilot"]
+        self.status = "🔭 Building cool stuff"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing. 🚀")
+        msg = "Thanks for stopping by!"
+        print(f"🚀 {msg} Let's build.")
 
-me = AadilQaisrani()
+    def __repr__(self):
+        return "Always learning, always shipping"
+
+
+me = Aadil()
 me.say_hi()
 ```
 
----
+```
+>> Thanks for stopping by! Let's build.
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🤖 AI & Automation
+#### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 🔧 Dev Environment
+#### Frameworks & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 📚 Libraries & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
-## 🚀 What I'm Up To
+## 🚀 Snapshot
 
 <div align="center">
 
 | | |
-|---|---|
-| 🔭 **Currently Building** | AI-powered SaaS tools & automation pipelines |
-| 🌱 **Currently Learning** | Python • REST APIs • FastAPI • Next.js |
-| 🤖 **AI Tools I Use** | Claude, ChatGPT, GitHub Copilot |
+|:---|:---|
+| 🔭 **Building** | AI-powered SaaS tools & automation pipelines |
+| 🌱 **Learning** | Python • REST APIs • FastAPI • Next.js |
+| 🤖 **AI Stack** | Claude, ChatGPT, GitHub Copilot |
 | 💬 **Ask Me About** | Python, AI-assisted dev, automation scripts |
-| 🎯 **2025 Goal** | Build 10 open-source Python tools |
-| ⚡ **Fun Fact** | I use AI to write code — then I improve it! |
+| 🎯 **2026 Goal** | Ship 10 open-source Python tools |
+| ⚡ **Fun Fact** | I use AI to write code — then I make it better |
 | 📍 **Based In** | Pakistan 🇵🇰 |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
+
+<div align="center">
+<i>Real tools. Real problems. Real code.</i>
+</div>
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🐸 VoiceFrog
+**AI Voice Cloning — 100% Local**
+
+Clone any voice on your own machine. No API keys, no cloud, no data leaving your device.
+
+`Python` `XTTS v2` `Coqui TTS` `CustomTkinter`
+
+🔨 In Development
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 College Management System
+**Full Academic Management Suite**
+
+Handles enrollment, attendance, grading, and automated report generation.
+
+`Python` `SQLite` `CustomTkinter`
+
+🔨 In Development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 WhatsApp Commerce SaaS
+**Sell Without an App**
+
+Catalog management, order tracking, and customer replies — all through WhatsApp.
+
+`Next.js` `FastAPI` `Supabase` `WhatsApp API`
+
+🔨 Building
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 AI CV Builder
+**ATS-Friendly Resumes in Minutes**
+
+AI-generated summaries and bullet points, exported straight to PDF/DOCX.
+
+`Python` `FastAPI` `OpenAI API` `python-docx`
+
+🔨 In Development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Web Security Scanner
+**Automated Vulnerability Checks**
+
+Scans for open ports, outdated headers, and common SQLi/XSS patterns.
+
+`Python` `FastAPI` `CustomTkinter`
+
+✅ Done
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Excel Automation Tool
+**Manual Excel Work, Eliminated**
+
+Auto-fills templates, generates formatted reports, and exports clean sheets.
+
+`Python` `OpenPyXL` `Pandas`
+
+✅ Done
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Business Website
+**Conversion-Focused Landing Page**
+
+Modern, responsive site with services section and working contact form.
+
+`HTML` `CSS` `JavaScript`
+
+✅ Done
+
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-> 💡 *Here's what I've been building — real tools, real problems, real code.*
+**More on the way...** 🚧
+
+Check out my pinned repos for live demos and source code 👇
+
+[![View Repos](https://img.shields.io/badge/View_All_Repos-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilqaisrani2-ctrl?tab=repositories)
 
 </div>
 
-<br/>
+</td>
+</tr>
+</table>
 
-### 🐸 VoiceFrog — AI Voice Cloning Tool
-> Clone any voice locally. No API keys, no cloud, just your machine.
-
-| | |
-|---|---|
-| **Stack** | Python, XTTS v2, Coqui TTS, CustomTkinter |
-| **What it does** | Records a voice sample, clones it using local AI, generates speech in that voice |
-| **Status** | 🔨 In Development |
-
----
-
-### 🎓 College Management System
-> A full-featured system to manage students, faculty, attendance & results.
-
-| | |
-|---|---|
-| **Stack** | Python, SQLite, Tkinter / CustomTkinter |
-| **What it does** | Handles student enrollment, grade tracking, attendance records, and report generation |
-| **Status** | 🔨 In Development |
-
----
-
-### 🌐 Business Website
-> Clean, modern website for a local business — built to convert visitors.
-
-| | |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **What it does** | Professional landing page with services section, contact form, and responsive layout |
-| **Status** | ✅ Done |
-
----
-
-### 📊 Excel Automation Tool
-> Tired of manual Excel work? This tool does it for you.
-
-| | |
-|---|---|
-| **Stack** | Python, OpenPyXL, Pandas |
-| **What it does** | Auto-fills templates, generates reports, formats sheets, and exports clean Excel files |
-| **Status** | ✅ Done |
-
----
-
-### 📄 AI CV Builder
-> Generate professional, ATS-friendly CVs with just a few inputs.
-
-| | |
-|---|---|
-| **Stack** | Python, FastAPI, OpenAI API, python-docx |
-| **What it does** | Takes user info, uses AI to write compelling summaries & bullet points, exports as PDF/DOCX |
-| **Status** | 🔨 In Development |
-
----
-
-### 🔐 Web Security Scanner
-> Automated scanner that checks websites for common vulnerabilities.
-
-| | |
-|---|---|
-| **Stack** | Python, FastAPI, CustomTkinter |
-| **What it does** | Scans for open ports, outdated headers, SQL injection hints, and XSS patterns |
-| **Status** | ✅ Done |
-
----
-
-### 🛒 WhatsApp Commerce SaaS
-> Let small businesses sell through WhatsApp — no app needed.
-
-| | |
-|---|---|
-| **Stack** | Next.js, FastAPI, Supabase, WhatsApp Business API |
-| **What it does** | Manages product catalog, orders, and customer replies through a WhatsApp bot |
-| **Status** | 🔨 Building |
-
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilqaisrani2-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilqaisrani2-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
+
+<br/>
+
 <img width="62%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b949e&stroke=7c3aed" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilqaisrani2-ctrl&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=1a0a3e" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
-## 💡 Dev Quote of the Day
+## 💡 Quote of the Day
 
 <div align="center">
 
@@ -217,24 +285,21 @@ me.say_hi()
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7c3aed&height=2&section=header"/>
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/aadilqaisrani2-ctrl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/aadilqaisrani">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://x.com/aadil_hussain11">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:aadilqaisrani2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -245,9 +310,7 @@ me.say_hi()
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
 
@@ -259,11 +322,9 @@ me.say_hi()
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a3e,100:0d1117&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,25:2d1b69,50:1a0a3e,75:0f0a2e,100:0d1117&height=160&section=footer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Drop+a+%E2%AD%90+if+you+like+what+you+see!;Let%27s+connect+and+build+together+%F0%9F%9A%80" />
 
