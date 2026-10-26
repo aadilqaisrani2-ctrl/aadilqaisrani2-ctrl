@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f0a2e,50:1a0a3e,75:2d1b69,100:4c1d95&height=300&section=header&text=Aadil%20Qaisrani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Django%20Learner%20%E2%80%A2%20Automation%20Builder&descAlignY=53&descAlign=50&descSize=20&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f0a2e,50:1a0a3e,75:2d1b69,100:4c1d95&height=300&section=header&text=Aadil%20Hussain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Django%20Learner%20%E2%80%A2%20Automation%20Builder&descAlignY=53&descAlign=50&descSize=20&descColor=c4b5fd"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=40&lines=%F0%9F%91%8B+Hey%2C+I'm+Aadil+%E2%80%94+welcome+to+my+world;%F0%9F%90%8D+Python+Developer+%7C+AI+Tinkerer;%E2%9A%99%EF%B8%8F+I+automate+boring+stuff+for+fun;%F0%9F%A4%96+I+code+with+AI%2C+and+I'm+learning+to+code+without+it;%F0%9F%9A%80+Always+shipping+something+new" alt="Typing SVG" />
 
@@ -286,10 +286,6 @@ Check out my pinned repos for source code 👇
 <br/>
 
 <img width="62%" src="https://streak-stats.demolab.com/?user=aadilqaisrani2-ctrl&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b949e&stroke=7c3aed" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilqaisrani2-ctrl&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=1a0a3e" />
 
 </div>
 
